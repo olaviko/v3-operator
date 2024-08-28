@@ -49,7 +49,7 @@ The validator registration process consists of the following steps:
       validator's BLS signature. The number of shares is equal to the number of oracles.
    2. Encrypt exit signatures with oracles' public keys.
    3. Send encrypted exit signatures to all the oracles and receive registration signatures from them.
-5. Send transaction to Vault contract to register the validator.
+5. Send transaction to Vault contract to register the validator..
 
 ### Exit signatures rotation
 
